@@ -4,7 +4,7 @@
 
 1. In PyCharm (or VS Code, as that's what I'm using) open project in a folder named ``python_userinput``. This is going to be the same name as the repository
 2. Create a README.md file and populate it.
-3. Create a .gitignore file and add the names of the files you don't want added. For those using PyCharm, that would be the environment files in ``venv/`` and ``.idea``.
+3. Create a .gitignore file and add the names of the files you don't want added. For those using PyCharm, that would be the environment files in ``venv/`` and ``.idea``. For VS Code add ``.vscode/``. REMEMBER TO SAVE THIS FILE!
 4. Now, create a new repository on Github, giving it the same name as the folder you're working in. For this example, that's ``python_userinput``. Leave all the tickboxes empty when you create it.
 5. Following the steps shown in your new empty repository:  
     - Move to the command line (works in VS Code and PyCharm) use ``git init`` to initialise the directory.
@@ -18,3 +18,4 @@
 
 ## Task 1.1 - User Input Task
 
+(refer to the code in homework.py)
